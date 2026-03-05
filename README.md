@@ -78,14 +78,15 @@ status:
 ### 📊 TELEMETRY DASHBOARD
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sunando94&show_icons=true&theme=neon&hide_border=true&bg_color=0D1117&title_color=00F2FF&icon_color=00F2FF&text_color=A9B1D6&include_all_commits=true" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunando94&layout=compact&theme=neon&hide_border=true&bg_color=0D1117&title_color=FF00E4&icon_color=FF00E4&text_color=A9B1D6" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sunando94&show_icons=true&theme=radical&hide_border=true" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunando94&layout=compact&theme=radical&hide_border=true" height="180em" />
 </div>
 
 <div align="center">
   <br/>
-  <img src="https://streak-stats.demolab.com?user=sunando94&theme=neon&background=0D1117&fire=FF0000&ring=00F2FF&sideNums=FF00E4&sideLabels=A9B1D6&currStreakLabel=00F2FF&currStreakNum=FF00E4" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sunando94&theme=radical&hide_border=true" alt="Streak Stats" />
 </div>
+
 
 <div align="center">
   <h4>🏗️ INFRASTRUCTURE ACTIVITY (3D ISO-GRID)</h4>
