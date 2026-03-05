@@ -3,100 +3,115 @@
   
   <br/>
 
-  <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=32&duration=3000&pause=1000&color=7B61FF&center=true&vCenter=true&width=800&lines=Engineering+Intelligence;Principal+Engineer+@+Red+Hat;AI+Architecure+%26+RAG;Sudo+Make+Me+Sandwich" alt="Typing SVG" />
-  </h1>
+  <p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&duration=2000&pause=500&color=00F2FF&center=true&vCenter=true&width=1000&lines=INITIATING+ENGINEERING+INTELLIGENCE...;PRINCIPAL+ENGINEER+@+RED+HAT;MASTERING+AGENTIC+WORKFLOWS;BUILDING+THE+SENTIENT+WEB;SUDO+MAKE+ME+SANDWICH" alt="Typing SVG" />
+  </p>
+
+  <p align="center">
+    <img src="https://img.shields.io/badge/Status-OPTIMIZING-00F2FF?style=for-the-badge&logo=kubernetes&logoColor=black" />
+    <img src="https://img.shields.io/badge/Focus-AGENTIC_SYSTEMS-FF00E4?style=for-the-badge&logo=openai&logoColor=white" />
+    <img src="https://img.shields.io/badge/Location-RED_HAT-EE0000?style=for-the-badge&logo=red-hat&logoColor=white" />
+  </p>
 </div>
 
 ---
 
-### 🟢 System Identity: Kubernetes `Person` CRD
+### ⚡ [ SYSTEM_CORE ] : Kubernetes `Person` CRD
 
 ```yaml
-apiVersion: personal.sunando.dev/v1beta1
+apiVersion: intelligence.sunando.io/v1alpha1
 kind: PrincipalEngineer
 metadata:
   name: sunando
-  labels:
-    role: innovator
-    brand: sudo-make-me-sandwich
+  annotations:
+    brand: "sudo-make-me-sandwich"
+    aesthetic: "cyberpunk-industrial"
 spec:
-  domainExpertise:
-    - Distributed Systems (Kafka, Spark)
-    - Cloud Native (Kubernetes, AWS)
-    - Data Governance & Architecture
-  intelligenceSystems:
-    - Agentic Workflows
-    - Production RAG (Retrieval-Augmented Generation)
-    - Model Context Protocol (MCP) Hub
-  coreLanguages: [ "Java","Scala", "Python", "Golang" ]
+  cognitiveStack:
+    - DistributedSystems: [ "Kafka", "Spark", "Flink" ]
+    - CloudNative: [ "K8s", "Operators", "AWS" ]
+    - AIModules: [ "RAG", "AgenticWorkflows", "LLMOps" ]
+  activeThreads:
+    - "Architecting production-grade RAG pipelines"
+    - "Refining autonomous multi-agent coding studios"
+    - "Scaling MCP Hub for universal tool integration"
+  coreLogic: [ "Scala", "Python", "Golang", "Rust" ]
 status:
-  currentlyOptimizing: "agentic-code-studio"
-  learning: "Advanced WebGPU Reasoning"
-  uptime: "Persistent"
+  currentTask: "Optimizing Distributed Reasoning"
+  uptime: "99.999% (Infinite Loop of Innovation)"
+  powerLevel: "OVER 9000"
 ```
 
 ---
 
-### 🚀 Strategic Intelligence Deployments
-
-<table border="0">
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🛠️ <a href="https://sunandobhattacharya.vercel.app/posts/production-rag-master-class-the-final-blueprint">Production RAG Engine</a></h4>
-      <p>A hybrid retrieval system featuring a "Golden Pipeline" (Contextual Pre-processor, Multi-Index Retriever, Cross-Encoder Re-ranker).</p>
-      <code>BM25</code> <code>Vector Search</code> <code>RRF</code> <code>Cross-Encoders</code>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🤖 <a href="https://sunandobhattacharya.vercel.app/posts/mastering-agentic-workflows-taking-your-ai-development-to-the-next-level">Agentic Code Studio</a></h4>
-      <p>Autonomous multi-agent assistant for planning and iterative code refinement using Human-in-the-loop oversight.</p>
-      <code>AI Agents</code> <code>MCP</code> <code>LLM Automation</code>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🌐 <a href="https://sunandobhattacharya.vercel.app/mcp">MCP Hub</a></h4>
-      <p>Universal bridge connecting AI models to local/remote tools via SSE and WebGPU offloading.</p>
-      <code>MCP</code> <code>SSE</code> <code>WebGPU</code> <code>Vercel</code>
-    </td>
-    <td width="50%" valign="top">
-      <h4>⚙️ Databricks Migration Suite</h4>
-      <p>Architectural migration of legacy EMR workloads to Unity Catalog / Lakehouse architecture for Fortune 500s.</p>
-      <code>Unity Catalog</code> <code>Delta Lake</code> <code>Spark</code>
-    </td>
-  </tr>
-</table>
-
----
-
-### 📊 Intelligence Metrics Dashboard
+### �️ STRATEGIC DEPLOYMENTS (FEATURED)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sunando94&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7B61FF&icon_color=BB9AF7&text_color=A9B1D6&include_all_commits=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunando94&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7B61FF&icon_color=BB9AF7&text_color=A9B1D6" alt="Top Languages" />
+  <table border="0">
+    <tr>
+      <td>
+        <a href="https://sunandobhattacharya.vercel.app/posts/production-rag-master-class-the-final-blueprint">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=sunando94&repo=production-rag-engine&theme=neon&bg_color=0D1117&title_color=00F2FF&text_color=A9B1D6&icon_color=00F2FF" alt="RAG Engine" />
+        </a>
+      </td>
+      <td>
+        <a href="https://sunandobhattacharya.vercel.app/posts/mastering-agentic-workflows-taking-your-ai-development-to-the-next-level">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=sunando94&repo=agentic-code-studio&theme=neon&bg_color=0D1117&title_color=FF00E4&text_color=A9B1D6&icon_color=FF00E4" alt="Agentic Studio" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <div align="center">
-  <h4>🏗️ Infrastructure Activity (3D Server Farm View)</h4>
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%" />
+  <br/>
+  <a href="https://sunandobhattacharya.vercel.app/mcp">
+    <img src="https://img.shields.io/badge/VIEW_MCP_HUB-00F2FF?style=for-the-badge&logo=probot&logoColor=black" />
+  </a>
+  <a href="https://sunandobhattacharya.vercel.app/portfolio">
+    <img src="https://img.shields.io/badge/FULL_MISSION_LOG-FF00E4?style=for-the-badge&logo=rocket&logoColor=white" />
+  </a>
 </div>
 
 ---
 
-### 🥪 Latest from "Sudo Make Me Sandwich"
+### 📊 TELEMETRY DASHBOARD
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sunando94&show_icons=true&theme=neon&hide_border=true&bg_color=0D1117&title_color=00F2FF&icon_color=00F2FF&text_color=A9B1D6&include_all_commits=true" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunando94&layout=compact&theme=neon&hide_border=true&bg_color=0D1117&title_color=FF00E4&icon_color=FF00E4&text_color=A9B1D6" height="180em" />
+</div>
+
+<div align="center">
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=sunando94&theme=neon&background=0D1117&fire=FF0000&ring=00F2FF&sideNums=FF00E4&sideLabels=A9B1D6&currStreakLabel=00F2FF&currStreakNum=FF00E4" alt="Streak Stats" />
+</div>
+
+<div align="center">
+  <h4>🏗️ INFRASTRUCTURE ACTIVITY (3D ISO-GRID)</h4>
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Graph" width="100%" />
+</div>
+
+---
+
+### 🥪 LATEST INSIGHTS FROM THE GRID
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
 ---
 
 <div align="center">
-  <a href="https://linkedin.com/in/sb1994">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://linkedin.com/in/subhatta">
+    <img src="https://img.shields.io/badge/LINK_NEURAL_NET-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://sunandobhattacharya.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-FF4B4B?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/ACCESS_STATION-FF4B4B?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="mailto:sunandobhattacharya1994@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:sunando94@gmail.com">
+    <img src="https://img.shields.io/badge/UPLINK_SIGNAL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F2FF&height=100&section=footer" width="100%" />
+</p>
