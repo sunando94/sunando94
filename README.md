@@ -78,20 +78,20 @@ status:
 ### 📊 TELEMETRY DASHBOARD
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sunando94&show_icons=true&theme=radical&hide_border=true" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunando94&layout=compact&theme=radical&hide_border=true" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sb1994&show_icons=true&theme=tokyonight" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sb1994&layout=compact&theme=tokyonight" height="180em" />
 </div>
 
 <div align="center">
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sunando94&theme=radical&hide_border=true" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sb1994&theme=tokyonight" alt="Streak Stats" />
 </div>
-
 
 <div align="center">
   <h4>🏗️ INFRASTRUCTURE ACTIVITY (3D ISO-GRID)</h4>
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Graph" width="100%" />
+  <img src="https://raw.githubusercontent.com/sunando94/sunando94/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Graph" width="100%" />
 </div>
+
 
 ---
 
